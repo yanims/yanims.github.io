@@ -355,8 +355,8 @@ html, body, .notepad-post-container, .notepad-post-header {
       .notepad-author-info .notepad-post-author > p a {
         color: #e51843; }
     .notepad-author-info .notepad-post-author .notepad-post-author-avatar {
-      width: 12.5rem;
-      height: 12.5rem;
+      width: 8rem;
+      height: 8rem;
       border-radius: 50%;
       float: none;
       margin-right: 0;
