@@ -1,4 +1,4 @@
-title:            Bon Courage!
+#title:            Bon Courage!
 description:      "chez yani"
 logo:             logo.png
 disqus_shortname: yanimand-xyz
@@ -17,7 +17,7 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    personal blog
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        yansq
+  # twitter:        yansq
   github:         yanims      
  
 
