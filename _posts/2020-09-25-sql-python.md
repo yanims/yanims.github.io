@@ -12,8 +12,6 @@ chart:
 comments: true
 featured: true
 ---
-# Intro
-
 tldr; membuat sql query di python dengan datasource dari sebuah file excel.
 
 Ceritanya tadi ada task untuk mengolah data sebuah file excel berisi 22970 baris data transfer-transferan. Inti tugasnya adalah menampilkan seluruh pengirim (```Sender ID```), penerima (```Beneficiary ID```), dan transaksi (```Invoice Number```) yang duplicated.
